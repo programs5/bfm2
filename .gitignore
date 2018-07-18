@@ -1,0 +1,6 @@
+# не закачивает на github не нужные каталоги:
+
+/hello_world_contract/tmp/
+/hello_world_contract/node_modules/
+/hello_world_contract/.idea/
+/hello_world_contract/build/
