@@ -1,0 +1,5 @@
+#!/Users/mac/Documents/GitHub/bfm2/hello_world_contract/venv/bin/python3.3
+if __name__ == '__main__':
+    import sys, pydoc
+    sys.exit(pydoc.cli())
+

@@ -1,0 +1,6 @@
+# не закачивает на github не нужные каталоги:
+
+/tmp/
+/node_modules/
+/.idea/
+/build/
