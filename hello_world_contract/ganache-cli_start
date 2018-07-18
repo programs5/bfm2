@@ -1,0 +1,4 @@
+# запуск в виде демона
+# где -l это лимит газа
+
+./node_modules/.bin/ganache-cli -l 10000000 >&/tmp/ganache.log &
