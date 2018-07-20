@@ -9,7 +9,7 @@ module.exports = {
       network_id: "*" // Match any network id
     },
 
-    rinkeby: {  // testnet
+    rinkeby: {  // testnet https://rinkeby.infura.io/kp7Z0DFPGq7d3S2lIKEz
       host: "localhost",
       port: 8547,
       network_id: 4
